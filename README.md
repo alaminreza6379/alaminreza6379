@@ -26,7 +26,7 @@
 - [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/al-amin-reza-9a3b7a338/))   
 
 ### ⚡ GitHub Stats
-![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminreza6379&show_icons=true&theme=radical)
 
 <!---
 alaminreza6379/alaminreza6379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
