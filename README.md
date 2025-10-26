@@ -23,7 +23,7 @@
 - Learn programming step by step and share what I create.
   
 ### 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/al-amin-reza-9a3b7a338/))   
+- [LinkedIn]([https://www.linkedin.com/in/al-amin-reza-9a3b7a338/])   
 
 ### ⚡ GitHub Stats
 ![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminreza6379&show_icons=true&theme=radical)
