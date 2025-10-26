@@ -7,11 +7,15 @@
 - Currently in Class 8.
 - Trying to do best in programming in java.
 
-### 🛠️ Skills & Tools
-- **Languages:** Java, Python, C++  
-- **Web:** HTML, CSS, JavaScript  
-- **Tech:** AI & ML basics, Data Science, Ethical Hacking  
-- **Tools:** Git, GitHub, VS Code, Unity  
+### 🏷️ Skills & Interests
+
+![Java](https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 🌱 Currently Learning
 - Advanced **algorithms & data structures**  
