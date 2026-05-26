@@ -4,7 +4,6 @@
 - Student passionate about **programming, AI, and technology trends**.  
 - Exploring **ethical hacking, algorithms, and full-stack development**.  
 - Lifelong learner with a knack for **problem-solving and coding challenges**.
-- Currently in Class 8.
 - Trying to do best in programming in java.
 
 ### 🏷️ Skills & Interests
