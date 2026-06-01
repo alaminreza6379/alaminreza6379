@@ -30,8 +30,6 @@
 - [LeetCode](https://www.leetcode.com/torloksz)
 - [X](https://www.x.com/alaminreza6379)
 
-### ⚡ GitHub Stats
-![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminreza6379&show_icons=true&theme=radical)
 
 <!---
 alaminreza6379/alaminreza6379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
