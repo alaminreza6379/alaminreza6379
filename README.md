@@ -1,36 +1,49 @@
-# 👋 Hi, I'm Al-Amin Reza
-
-### 🚀 About Me
-- Student passionate about **programming, AI, and technology trends**.  
-- Exploring **ethical hacking, algorithms, and full-stack development**.  
-- Lifelong learner with a knack for **problem-solving and coding challenges**.
-- Trying to do best in programming in java.
-
-### 🏷️ Skills & Interests
-
-![Java](https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-green.svg)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 🌱 Currently Learning
-- Advanced **algorithms & data structures**  
-- AI agents and generative AI projects  
-- Mobile and web app development  
+# Hi there 👋, I'm Al-Amin Reza
 
-### 💡 My Goals
-- Build fun and simple projects to improve my skills.  
-- Learn programming step by step and share what I create.
-  
+🚀 Engineering Student | Backend Developer in Progress | Java Enthusiast
+
+I enjoy building scalable backend systems, learning software architecture, and continuously improving my engineering skills.
+
+My current focus is mastering:
+
+- Java
+- Spring Boot
+- Data Structures & Algorithms
+- System Design
+- Databases
+- Backend Engineering
+- Software Architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎯 Current Goals
+
+- Master Java and Spring Boot
+- Build production-ready backend projects
+- Learn System Design
+- Contribute to Open Source
+- Prepare for top software engineering roles
+
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/al-amin-reza-9a3b7a338/)
 - [LeetCode](https://www.leetcode.com/torloksz)
 - [X](https://www.x.com/alaminreza6379)
 
-
-<!---
-alaminreza6379/alaminreza6379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
