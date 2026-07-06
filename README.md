@@ -32,6 +32,8 @@ My current focus is mastering:
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Frontend 
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ---
 
 ## 🎯 Current Goals
