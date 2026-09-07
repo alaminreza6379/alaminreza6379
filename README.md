@@ -1,57 +1,85 @@
+<div align="center">
 
+# Hi there, I'm Al-Amin Reza 👋
+### Aspiring Backend Engineer & Systems Enthusiast
+### Active Developer
 
-# Hi there 👋, I'm Al-Amin Reza
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminreza6379/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/torloksz)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/alaminreza6379)
 
-🚀 Engineering Student | Backend Developer in Progress | Java Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alaminreza6379&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I enjoy building scalable backend systems, learning software architecture, and continuously improving my engineering skills.
-
-My current focus is mastering:
-
-- Java
-- Spring Boot
-- Data Structures & Algorithms
-- System Design
-- Databases
-- Backend Engineering
-- Software Architecture
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 🚀 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+I am an engineering student focused on designing resilient, scalable backend architectures and high-throughput distributed systems. My foundation centers on strong computer science fundamentals, efficient algorithmic problem-solving, and clean, modular code.
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- 🔭 **Core Engineering:** Building production-grade microservices and backend systems using **Java & Spring Boot**.
+- 🧠 **Expanding Frontiers:** Actively exploring **Python for Artificial Intelligence & Applied Machine Learning** to integrate intelligent workflows into robust backends.
+- 📐 **Foundations:** Deep-diving into **System Design, Database Optimization, and Advanced Data Structures & Algorithms**.
+- 💬 **Ask me about:** Java concurrency, RESTful API architecture, SQL schema design, and clean code principles.
+- ⚡ **Fun fact:** I spend significant time profiling queries and optimizing edge-case complexities before touching business logic.
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack & Tooling
 
-### Frontend 
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,ts&theme=dark" alt="Languages" />
+</p>
 
+#### Backend & Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Backend" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,docker,python,postgres,git,linux&theme=dark" />
+#### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend" />
+</p>
+
+#### Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
+</p>
+
+#### DevOps, Cloud & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" alt="Tools" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+### 📈 GitHub Analytics
 
-- Master Java and Spring Boot
-- Build production-ready backend projects
-- Learn System Design
-- Contribute to Open Source
-- Prepare for top software engineering roles
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaminreza6379&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminreza6379&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alaminreza6379/)
-- [LeetCode](https://www.leetcode.com/torloksz)
-- [X](https://www.x.com/alaminreza6379)
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminreza6379&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
 
+---
+
+### 🎯 Strategic Roadmap
+
+- [ ] Complete end-to-end production backend microservice deployment using Spring Cloud & Docker.
+- [ ] Implement core AI/ML pipelines in Python using NumPy, Pandas, and PyTorch for predictive analytics.
+- [ ] Solve 300+ LeetCode problems covering complex dynamic programming and graph structures.
+- [ ] Publish an open-source technical write-up analyzing distributed database isolation levels.
+
+---
+
+<div align="center">
+  <sub>Designed with precision. If you find my open-source work valuable, consider starring my repositories! ⭐</sub>
+</div>
