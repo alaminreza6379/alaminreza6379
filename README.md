@@ -29,37 +29,29 @@ I am an engineering student focused on building resilient, high-throughput backe
 
 ### 📌 Featured Repositories
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/alaminreza6379/Arche">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaminreza6379&repo=Arche&theme=tokyonight&hide_border=true" alt="Arche Android AI" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/alaminreza6379/UrlShortener">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaminreza6379&repo=UrlShortener&theme=tokyonight&hide_border=true" alt="Spring Boot URL Shortener" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/alaminreza6379/arethium">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaminreza6379&repo=arethium&theme=tokyonight&hide_border=true" alt="Arethium Platform" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/alaminreza6379/WeatherAPP-Rest-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaminreza6379&repo=WeatherAPP-Rest-API&theme=tokyonight&hide_border=true" alt="Java Weather REST API" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+* #### [🤖 Arche](https://github.com/alaminreza6379/Arche)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI-Autonomous_Agent-FF6F00?style=flat-square)
+  > Autonomous agent translating natural language into authorized system actions on Android.
 
+* #### [⚡ UrlShortener](https://github.com/alaminreza6379/UrlShortener)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  > High-performance URL shortening REST API engineered with Spring Boot and PostgreSQL.
+
+* #### [🌐 arethium](https://github.com/alaminreza6379/arethium)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Architecture](https://img.shields.io/badge/System-Career_Readiness_OS-blue?style=flat-square)
+  > AI-powered career readiness operating system and evaluation engine built in Java.
+
+* #### [⛅ WeatherAPP-Rest-API](https://github.com/alaminreza6379/WeatherAPP-Rest-API)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST-API_Service-0052CC?style=flat-square)
+  > Concurrent Java REST API consuming external meteorological services for real-time weather analytics.
+
+   
 ---
-
 ### 🛠️ Tech Stack & Tooling
 
 #### Languages
