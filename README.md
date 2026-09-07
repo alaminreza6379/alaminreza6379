@@ -34,6 +34,12 @@ My current focus is mastering:
 
 ### Frontend 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,docker,python,postgres,git,linux&theme=dark" />
+</p>
+
 ---
 
 ## 🎯 Current Goals
@@ -45,7 +51,7 @@ My current focus is mastering:
 - Prepare for top software engineering roles
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/al-amin-reza-9a3b7a338/)
+- [LinkedIn](https://www.linkedin.com/in/alaminreza6379/)
 - [LeetCode](https://www.leetcode.com/torloksz)
 - [X](https://www.x.com/alaminreza6379)
 
