@@ -97,13 +97,13 @@ I am an engineering student focused on building resilient, high-throughput backe
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaminreza6379&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminreza6379&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alaminreza6379&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alaminreza6379&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminreza6379&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=alaminreza6379&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
