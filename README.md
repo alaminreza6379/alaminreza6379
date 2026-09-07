@@ -59,17 +59,15 @@ I am an engineering student focused on building resilient, high-throughput backe
   <img src="https://skillicons.dev/icons?i=java,python,ts&theme=dark" alt="Languages" />
 </p>
 
-#### Backend & Enterprise Systems
-*(Scalable microservices and cloud backends)*
+#### Backend & Architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Backend" />
 </p>
 
-#### Mobile & Desktop Client Development (Java Ecosystem)
-*(Cross-platform GUI and native mobile experiences)*
+#### Mobile & Native Desktop
+*(Android, JavaFX & Swing)*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+  <img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Android" />
   <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" />
 </p>
@@ -81,16 +79,16 @@ I am an engineering student focused on building resilient, high-throughput backe
 
 #### Databases & Query Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
 </p>
 
-#### IDEs & Daily Driver Environments
+#### IDEs & Workspaces
 <p align="left">
   <img src="https://skillicons.dev/icons?i=idea,androidstudio,pycharm&theme=dark" alt="IDEs" />
 </p>
 
-#### DevOps, Version Control & Systems
+#### DevOps & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" alt="DevOps" />
 </p>
