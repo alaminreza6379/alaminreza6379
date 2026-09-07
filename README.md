@@ -64,10 +64,9 @@ I am an engineering student focused on building resilient, high-throughput backe
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Backend" />
 </p>
 
-#### Mobile & Native Desktop
-*(Android, JavaFX & Swing)*
+#### Mobile & Native Desktop (Java Ecosystem)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android" height="40" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="40" />
   <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" height="40" />
   <img src="https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" height="40" />
 </p>
@@ -85,7 +84,7 @@ I am an engineering student focused on building resilient, high-throughput backe
 
 #### Development Environments (IDEs)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,pycharm&theme=dark" alt="IDEs" />
+  <img src="https://skillicons.dev/icons?i=idea,androidstudio,pycharm&theme=dark" alt="IDEs" />
 </p>
 
 #### DevOps & Version Control
@@ -93,8 +92,8 @@ I am an engineering student focused on building resilient, high-throughput backe
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" alt="DevOps" />
 </p>
 
----
 
+---
 ### 📈 GitHub Analytics
 
 <div align="center">
